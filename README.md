@@ -8,7 +8,7 @@ The script provided here was developed for an **African lion (Panthera leo)** da
 
  ### For more information on the methodology and specific parameters used in the MVF protocol, please refer to the associated publication:
 
-**"Decision rules for determining terrestrial movement and the consequences for filtering high-resolution global positioning system tracks: a case study using the African lion (Panthera leo)"** [(https://royalsocietypublishing.org/doi/full/10.1098/rsif.2021.0692)]
+**"Decision rules for determining terrestrial movement and the consequences for filtering high-resolution global positioning system tracks: a case study using the African lion (Panthera leo)"** [https://royalsocietypublishing.org/doi/full/10.1098/rsif.2021.0692]
 
 ## Description
 
@@ -78,15 +78,13 @@ setwd("/path/to/your/unzipped/repository")
 
 The methodology for this script is detailed in the publication:
 
-**"Decision rules for determining terrestrial movement and the consequences for filtering high-resolution global positioning system tracks: a case study using the African lion (Panthera leo)"**, published in the Journal of the Royal Society Interface. [(https://royalsocietypublishing.org/doi/full/10.1098/rsif.2021.0692)]
+**"Decision rules for determining terrestrial movement and the consequences for filtering high-resolution global positioning system tracks: a case study using the African lion (Panthera leo)"**, published in the Journal of the Royal Society Interface. [https://royalsocietypublishing.org/doi/full/10.1098/rsif.2021.0692]
 
 ## Usage Notes
 
 - This example uses data from an African lion, but thresholds and processes can be adjusted for different species or datasets.
 - Ensure the working directory is set correctly before running the script.
 - The MVF filtering method is particularly well-suited for high-resolution GPS datasets, such as those collected at 1 Hz, where frequent GPS fixes can introduce positional errors if not filtered.
-- The script includes visualizations to illustrate the impact of each step of the MVF filtering process.
-- Feel free to adapt the parameters to suit your research needs.
 
 ## License
 
