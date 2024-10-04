@@ -6,6 +6,11 @@ R script and a zipped file with example data to implement the Movement Verified 
 
 The script provided here was developed for an **African lion (Panthera leo)** dataset, where motion sensor data was collected using a **Daily Diary (DD)** device (10 Hz), and GPS data was collected at 1 Hz using a **Technosmart GiPSy-5** device. The MVF protocol aims to accurately classify traveling movement while filtering out inaccuracies, such as noise from resting behavior or low-quality GPS fixes. This approach is specifically tailored for **high-resolution GPS datasets** (e.g., 1 Hz), where frequent fixes can lead to significant positional errors if not properly filtered.
 
+## Download the Example Dataset
+Due to the large size of the dataset, you can download the example dataset used in this project from the following link:
+
+[Download Example Data](https://github.com/yourusername/yourrepository/releases/download/v1.0/your_large_file.zip)
+
  ### For more information on the methodology and specific parameters used in the MVF protocol, please refer to the associated publication:
 
 **"Decision rules for determining terrestrial movement and the consequences for filtering high-resolution global positioning system tracks: a case study using the African lion (Panthera leo)"** [https://royalsocietypublishing.org/doi/full/10.1098/rsif.2021.0692]
