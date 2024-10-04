@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains an R script implementing the **Movement Verified Filtering (MVF)** protocol, designed to determine genuine movement from high-resolution GPS and motion sensor data. The MVF method uses a combination of velocity estimates from GPS data and **Dynamic Body Acceleration (DBA)** to identify and filter erroneous or non-movement GPS fixes.
+R script and a zipped file with example data to implement the Movement Verified Filtering (MVF) protocol. The MVF protocol is designed to distinguish genuine movement in animals using high-resolution GPS and motion sensor data. It combines velocity estimates from GPS data with Dynamic Body Acceleration (DBA) to identify and filter out erroneous or non-movement GPS fixes.
 
 The script provided here was developed for an **African lion (Panthera leo)** dataset, where motion sensor data was collected using a **Daily Diary (DD)** device (10 Hz), and GPS data was collected at 1 Hz using a **Technosmart GiPSy-5** device. The MVF protocol aims to accurately classify traveling movement while filtering out inaccuracies, such as noise from resting behavior or low-quality GPS fixes. This approach is specifically tailored for **high-resolution GPS datasets** (e.g., 1 Hz), where frequent fixes can lead to significant positional errors if not properly filtered.
 
