@@ -9,7 +9,7 @@ The script provided here was developed for an **African lion (Panthera leo)** da
 ## Download the Example Dataset
 Due to the large size of the dataset, you can download the example dataset used in this project from the following link:
 
-[Download Example Data](https://github.com/yourusername/yourrepository/releases/download/v1.0/your_large_file.zip)
+[https://github.com/Richard6195/Movement-Verified-GPS-Filtering-Protocol/releases/tag/v1.0.0/Example.dataset.zip]
 
  ### For more information on the methodology and specific parameters used in the MVF protocol, please refer to the associated publication:
 
